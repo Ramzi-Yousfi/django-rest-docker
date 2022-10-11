@@ -9,3 +9,4 @@ exlude =
     .gitignore
     .git
     db.sqlite3
+    app.settings
