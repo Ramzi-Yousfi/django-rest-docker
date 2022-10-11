@@ -1,0 +1,2 @@
+[flake8]
+exlude =  __pycache__, venv, migrations, settings.py,manage.py
