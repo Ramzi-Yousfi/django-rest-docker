@@ -1,5 +1,5 @@
 [flake8]
-exlude =
+exclude =
     __pycache__,
     venv,
     migrations,
@@ -10,3 +10,4 @@ exlude =
     .git,
     db.sqlite3,
     app.settings.py
+
