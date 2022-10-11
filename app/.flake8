@@ -1,12 +1,12 @@
 [flake8]
 exlude =
-    __pycache__
-    venv
+    __pycache__,
+    venv,
     migrations,
-    settings.py
-    manage.py
-    .env
-    .gitignore
-    .git
-    db.sqlite3
-    app.settings
+    settings.py,
+    manage.py,
+    .env,
+    .gitignore,
+    .git,
+    db.sqlite3,
+    app.settings.py
